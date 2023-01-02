@@ -29,7 +29,7 @@ You cannot compensate
 
 ## Compensation Amounts
 
-Compensation should be appropriate in type and amount. The research team is responsible for assessing the level of compensation based on budget and number of participants.
+Compensation should be appropriate in type and amount. Typically, compensation is based on $1/minute. The research team is responsible for assessing the level of compensation based on budget and number of participants.
 
 > All compensation should be provided fairly to all designs in the same study, with equal compensation for equal participation regardless of income, age, gender, or race.
 
@@ -38,7 +38,7 @@ Compensation should be appropriate in type and amount. The research team is resp
 | Research Activity     | Duration        | Amount    |
 |-----------------------|-----------------|-----------|
 | Intercept Testing     | 10 to 15 minutes   | $10       |
-| Behavioural Interview | 60 minutes      | $50       |
+| Behavioural Interview | 60 minutes      | $60       |
 | Usability Testing     | 30 to 60 minutes | $25 - $50 |
 
 ## Forms of Compensation
